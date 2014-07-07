@@ -1,0 +1,1 @@
+web: ruby truncate.rb -p $PORT -E production
