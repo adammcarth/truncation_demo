@@ -32,6 +32,7 @@ end
 require "rubygems"
 require "sinatra"
 require "erubis"
+require "bundler"
 
 
 get "/" do
