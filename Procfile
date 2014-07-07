@@ -1,1 +1,1 @@
-web: bundle exec ruby truncate.rb -p $PORT -E production
+web: bundle exec rackup config.ru -p $PORT -E production
