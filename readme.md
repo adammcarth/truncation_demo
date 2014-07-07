@@ -1,4 +1,4 @@
-A demo for a smart truncation script I created.
+A demo for a smart truncation script I created. [http://smart-trunction.herokuapp.com](http://smart-trunction.herokuapp.com)
 
 ```ruby
 # Intelligent string truncation function
