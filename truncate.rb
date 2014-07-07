@@ -30,9 +30,8 @@ end
 
 
 require "rubygems"
-require "sinatra"
-require "erubis"
 require "bundler"
+Bundler.require(:default)
 
 
 get "/" do
