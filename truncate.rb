@@ -72,6 +72,8 @@ __END__
 
     <div class="results hidden" style="background:#DDD; border-radius:3px; margin-top:20px; padding:30px; width: 500px; font-size:15px; font-family: Helvetica, Arial, sans-serif; display:none;"></div>
 
+    <a href="http://adammcarthur.net/truncation-techniques" style="margin-top: 10px; color: #479ED8;">Back to tutorial</a>
+
     <script type="text/javascript">
       var Truncation = new Instance({
         "url": "/process_truncation",
