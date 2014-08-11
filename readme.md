@@ -1,5 +1,7 @@
 A demo for a smart truncation script I created. [http://smart-trunction.herokuapp.com](http://smart-trunction.herokuapp.com)
 
+Visit the tutorial here: [Smart Truncation Techniques For Difficult Web Layouts](http://adammcarthur.net/truncation-techniques/).
+
 ```ruby
 # Intelligent string truncation function
 # written in Ruby.
